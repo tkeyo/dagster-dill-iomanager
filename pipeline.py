@@ -1,7 +1,7 @@
 from dagster import op, job, io_manager
 import pandas as pd
 
-from my_io_manager import DillIOManager
+from dill_io_manager import DillIOManager
 
 
 @io_manager

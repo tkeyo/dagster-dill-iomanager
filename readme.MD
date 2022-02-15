@@ -1,6 +1,6 @@
 ## IOManager Implementation
 
-Test implementation of a custom dagster IOManager. The implementation uses dill to serialize and deserialize data between @op executions in dagster pipelines.
+Test implementation of a custom dagster IOManager. The implementation uses dill to serialize and deserialize data between @job executions in dagster pipelines.
 
 ## Usage Details
 

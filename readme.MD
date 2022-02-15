@@ -4,7 +4,7 @@ Test implementation of a custom dagster IOManager. The implementation uses dill 
 
 ## Usage Details
 
-See documentation on dagster's website [IO Managers](https://docs.dagster.io/concepts/io-management/io-managers)
+See documentation on dagster's website [IO Managers](https://docs.dagster.io/concepts/io-management/io-managers).
 
 ## Usage Example
 
